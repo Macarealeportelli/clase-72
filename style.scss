@@ -1,0 +1,12 @@
+$color-principal: #ff0000;
+$color-secundario: #aa00bb;
+
+
+h1 {
+    color: $color-principal; 
+}
+
+body{
+    background-color: $color-secundario; 
+    color: $color-principal;
+}
